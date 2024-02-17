@@ -2,7 +2,7 @@
 
 This is a repository for the warmup project of CS 7170 Seminars in AI: Proceedural Content Generation with ML. 
 
-Download the VGLC dataset: https://github.com/TheVGLC/TheVGLC
+Download the VGLC dataset to generate levels for other games: https://github.com/TheVGLC/TheVGLC (Delete the processed_levels.pkl first)
 
 To generate Levels: 
 * python main.py
